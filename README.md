@@ -1,4 +1,4 @@
-# Dating App 💕
+# Dating App 
 
 A modern dating app built with React Native, featuring a beautiful UI with soft pink theming, smooth animations, and a complete onboarding flow.
 
